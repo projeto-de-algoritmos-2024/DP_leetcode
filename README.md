@@ -1,6 +1,6 @@
 # DP_leetcode
 Temas:
- - Programação Dinâmica - link do video : https://youtu.be/kcqbPOxuUAs
+ - Programação Dinâmica - link do video : https://youtu.be/weNAUNvp7IE
 
 **Conteúdo da Disciplina**:Programação Dinâmica <br>
 
